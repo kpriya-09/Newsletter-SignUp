@@ -1,0 +1,9 @@
+body{
+    margin:0;
+}
+div{
+    background-color: rgb(226, 226, 226);
+    margin:0;
+    padding:10%;
+    font-size: 4rem;
+}
